@@ -80,17 +80,6 @@
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PriyaGupta44&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaGupta44&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -102,25 +91,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PriyaGupta44&theme=algolia&no-frame=true&margin-w=12&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyaGupta44&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
 
 # 🌟 Featured Projects
 
@@ -201,15 +172,6 @@
 
 ---
 
-# 🐍 Contribution Snake *(Optional)*
-
-> **Create this using GitHub Actions after pushing your profile README.**
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/PriyaGupta44/PriyaGupta44/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
 
 ---
 
