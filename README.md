@@ -61,6 +61,9 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
 </p>
 
 ## 🗄️ Database
@@ -182,26 +185,3 @@
 **Thank you for visiting my profile!**
 
 </div>
-
-<!-- ========================================================= -->
-<!--                       IMPORTANT NOTES                     -->
-<!-- ========================================================= -->
-
-<!--
-1. Replace:
-   https://www.linkedin.com/in/YOUR-LINKEDIN
-
-2. Replace:
-   https://twitter.com/YOUR_USERNAME
-
-3. Replace:
-   https://YOUR-PORTFOLIO-WEBSITE.com
-
-4. Replace:
-   YOUR_EMAIL@example.com
-
-5. The username has already been set to:
-   PriyaGupta44
-
-6. The Snake Contribution Animation requires GitHub Actions.
--->
